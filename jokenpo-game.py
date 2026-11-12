@@ -7,7 +7,7 @@ if escolha == 'pedra' and escolhaPC == 'pedra':
 elif escolha == 'pedra' and escolhaPC == 'papel':
     print('escolheu {} e eu escolhi {}, voce perdeu! '.format('pedra','papel'))
 elif escolha == 'pedra' and escolhaPC == 'tesoura':
-    print('escolheu {] e eu escolhi {}, voce ganhou'.format('pedra','tesoura'))
+    print('escolheu {} e eu escolhi {}, voce ganhou'.format('pedra','tesoura'))
 elif escolha == 'papel' and escolhaPC == 'pedra':
     print('escolheu {} e eu escolhi {}, voce ganhou'.format('papel','pedra'))
 elif escolha == 'papel' and escolhaPC == 'papel':
